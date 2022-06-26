@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopBridge", "ShopBridge\ShopBridge.csproj", "{C6A9AC31-4DDD-466D-8458-9ECE82DA8010}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{9D9BC3DF-0062-464C-BD8C-3E8142994A13}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopBridgeTest", "TestProject1\ShopBridgeTest.csproj", "{9D9BC3DF-0062-464C-BD8C-3E8142994A13}"
 	ProjectSection(ProjectDependencies) = postProject
 		{C6A9AC31-4DDD-466D-8458-9ECE82DA8010} = {C6A9AC31-4DDD-466D-8458-9ECE82DA8010}
 	EndProjectSection

@@ -3,10 +3,10 @@ using ShopBridge;
 using ShopBridge.Models;
 using Assert = Microsoft.VisualStudio.TestTools.UnitTesting.Assert;
 
-namespace TestProject1
+namespace ShopBridgeTest
 {
     [TestClass]
-    public class UnitTest1
+    public class ShopBridgeTest
     {
         [Fact(DisplayName = "Show all item from inventory")]
         public void ShowAllItemInInventoryAsyncTest()
