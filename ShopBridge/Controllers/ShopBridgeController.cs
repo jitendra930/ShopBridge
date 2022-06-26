@@ -66,7 +66,7 @@ namespace ShopBridge.Controllers
         /// param = quantityAvailable (Updated quantity)
         /// return bool
         /// </summary>
-        [HttpPut(Name = "ModifyQuantityAvailableI")]
+        [HttpPut(Name = "ModifyQuantityAvailable")]
         public ActionResult<bool> ModifyQuantityAvailable(string name, int quantityAvailable)
         {
             try
