@@ -5,4 +5,4 @@ Please read **Readme.pdf** file for explanation.
 **TestProject1** is for testing.
 
 
-Azure cloud Url: https://shopbridge.azurewebsites.net/ShopBridge/ShowAllItemInInventory
+Azure cloud Url: https://shopbridge.azurewebsites.net/ShopBridge/ShowAllItemInInventory(Deprecated)
