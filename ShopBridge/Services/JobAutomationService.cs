@@ -147,7 +147,7 @@ namespace ShopBridge.Services
                 NotifyAsync(alert).GetAwaiter().GetResult();
             }
 
-            return Task.FromResult(updatedItem);
+            return Task.FromResult<ApplicationQueueItem?>(updatedItem);
         }
 
         public Task<ApplicationOutcomeRecord> RecordOutcomeAsync(ApplicationOutcomeRecord outcome)

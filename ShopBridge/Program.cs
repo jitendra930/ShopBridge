@@ -1,7 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using ShopBridge.Configuration;
 using ShopBridge.Interface;
-using ShopBridge.Interface;
 using ShopBridge.Methods;
 using ShopBridge.Models;
 using ShopBridge.Services;
